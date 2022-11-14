@@ -1,0 +1,12 @@
+.outerDiv{
+    background-color: rgb(15, 2, 48);
+    border: 1px solid red;
+    border-radius: 20px;
+    height: 560px;
+    text-align: center;
+   
+}
+ .main-heading{
+    margin-top: 200px;
+    color: white;
+ }

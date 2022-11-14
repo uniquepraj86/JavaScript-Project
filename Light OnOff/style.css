@@ -1,0 +1,30 @@
+.main-heading{
+    background-color: rgb(9, 9, 48);
+    height: 525px;
+    width: auto;
+    border: 1px solid black;
+}
+#txt{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.img{
+    margin-left: 530px;
+    height: 150px;  
+    gap: 5px;
+}
+.bt1{
+    background-color: orange;
+    height: 30px;
+    width: auto;
+    margin-left: 400px;
+}
+.bt2{
+    background-color: orange;
+    height: 30px;
+    width: auto;
+    margin-left: 100px;
+   
+}
